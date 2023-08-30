@@ -33,14 +33,12 @@ export default function App() {
 
 const styles = StyleSheet.create({
   container: {
-    flex: 1,
     backgroundColor: '#fff',
+    marginTop: 100,
     alignItems: 'center',
-    justifyContent: 'center',
-    marginTop: 50,
-    marginLeft: 10,
   },
   field: {
-    marginBottom: 10,
+    marginBottom: 15,
+    fontSize: 20,
   }
 });
